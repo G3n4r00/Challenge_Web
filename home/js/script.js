@@ -5,8 +5,6 @@ h1Element.addEventListener("click", ()=> {
 
 })
 
-
-
 h1Element.addEventListener("mouseover", ()=>{
     h1Element.style.backgroundColor = "#5f9ea0";
     h1Element.style.color = "#fff"
